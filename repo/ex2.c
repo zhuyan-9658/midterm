@@ -7,5 +7,3 @@ int maim()
     {
         if(shu !=' ')
         a = shu-'0';
-        
-
